@@ -1,0 +1,9 @@
+{
+  "name": "gen-await",
+  "version": "0.0.1",
+  "description": "async gen functions to make handling async functions easier",
+  "main": "src/index.js",
+  "repository": "git@github.com:VoiceNGO/gen-await.git",
+  "author": "Mark Kahn <mark@voice.ngo>",
+  "license": "MIT"
+}
